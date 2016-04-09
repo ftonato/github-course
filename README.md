@@ -10,4 +10,4 @@ Gostou do curso? Quer apreder mais? Ajude-o com uma doação, até um café é v
 
 ### Outros cursos
 
-Veja mais em : [willian justen cursos](http://willianjusten.teachable.com).
+Veja mais em: [willian justen cursos](http://willianjusten.teachable.com).
