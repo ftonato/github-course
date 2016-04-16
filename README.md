@@ -1,6 +1,6 @@
 #Git Course
 
-Este é um repositorio teste para aprender como o **Git** funciona com o curso do querido [willianjusten.com.br](http://willianjusten.com.br)
+Este é um repositorio teste para aprender como o **Git** funciona com o curso do querido [willianjusten.com.br](http://willianjusten.com.br).
 
 Se você não conhece o curso, venha conhecer os [cursos](http://willianjusten.teachable.com).
 Você participou, gostou do curso ou quer apreder mais? Ajude-o com uma doação, até um café é válido =)
